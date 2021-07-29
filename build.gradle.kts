@@ -32,8 +32,8 @@ application {
 publishing {
     publications {
         create<MavenPublication>("maven") {
-            groupId = "io.arctic.nanoId"
-            artifactId = "library"
+            groupId = "io.arctic"
+            artifactId = "nanoId"
             version = "1.0"
 
             from(components["java"])
