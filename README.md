@@ -24,7 +24,7 @@ nanoid is an alternative to classic uuid to generate ids like from youtube:
 
 ```kotlin
 NanoIdKt.randomId()
-
+// result:
 DwLMJLKxWvfR
 Q0kSssy_3n_B
 89gYjVDasXkH
