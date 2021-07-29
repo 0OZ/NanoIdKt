@@ -3,7 +3,7 @@
 [![Publish package to GitHub Packages](https://github.com/0OZ/NanoIdKt/actions/workflows/release.yml/badge.svg)](https://github.com/0OZ/NanoIdKt/actions/workflows/release.yml)
 A unique string ID generator for Kotlin.
 
-```maven
+```xml
 <dependency>
   <groupId>io.arctic</groupId>
   <artifactId>nanoidkt</artifactId>
