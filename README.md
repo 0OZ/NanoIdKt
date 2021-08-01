@@ -7,7 +7,7 @@ A unique string ID generator for Kotlin.
 
 ```xml
 <dependency>
-  <groupId>io.arctic</groupId>
+  <groupId>so.arctic</groupId>
   <artifactId>nanoidkt</artifactId>
   <version>1.0</version>
 </dependency>
